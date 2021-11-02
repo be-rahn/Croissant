@@ -1,2 +1,2 @@
 # Croissant
-SheCodes responsive project
+Deploying multiple pages SheCodes project.
